@@ -1,1 +1,5 @@
-{}
+{
+	"main": "./src/index.ts",
+	"name": "@arrasene/shared",
+	"types": "./src/index.ts"
+}
