@@ -1,13 +1,21 @@
 {
+	"author": "sunshinekitsune",
 	"dependencies": {
 		"uwebsockets": "^3.0.5"
 	},
+	"description": "A cleanroom reimplementation of the arras.io.",
 	"devDependencies": {
 		"@biomejs/biome": "^2.4.15",
 		"esbuild": "^0.28.0",
 		"porffor": "^0.61.13",
 		"typescript": "^6.0.3"
 	},
+	"engines": {
+		"node": ">=24.0.0"
+	},
+	"license": "UNLICENSED",
 	"name": "arrasene",
+	"packageManager": "pnpm@10.0.0",
+	"type": "commonjs",
 	"version": "1.0.0"
 }
